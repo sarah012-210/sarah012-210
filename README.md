@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,100:1C2541&height=220&section=header&text=Sarah%20Sameh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineering%20%7C%20AI%20for%20Healthcare&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Sarah%20Sameh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineering%20%7C%20AI%20for%20Healthcare&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Biomedical+Engineering+Student;Machine+Learning+%26+Deep+Learning+for+Healthcare;Medical+Imaging+%7C+Data+Science+%7C+Research;Building+AI+Solutions+for+Real+World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF61D2&center=true&vCenter=true&width=900&lines=Biomedical+Engineering+Student;Machine+Learning+%26+Deep+Learning+for+Healthcare;Medical+Imaging+%7C+Data+Science+%7C+Research;Building+AI+Solutions+for+Real+World+Problems" />
 
 </div>
 
@@ -64,31 +64,15 @@
 
 ---
 
-#  Featured Projects
-
-##  ECG Signal Classification
-AI model for detecting abnormalities in ECG signals using deep learning.
-
-##  Brain MRI Tumor Detection
-CNN model for classifying MRI scans and detecting tumors.
-
-##  Medical Data Prediction
-Machine learning models for disease prediction using patient data.
-
-##  Bioinformatics Analysis
-DNA / RNA sequence analysis and biological data processing.
-
----
-
 #  GitHub Analytics (Real-Time)
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sarah012-210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah012-210&layout=compact&theme=tokyonight"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarah012-210&theme=tokyonight"/>
 
 </div>
 
@@ -96,24 +80,24 @@ DNA / RNA sequence analysis and biological data processing.
 
 #  Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarah012-210&theme=tokyo-night"/>
 
 ---
 
 #  Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sarah012-210&theme=tokyonight&row=1&column=7"/>
 
 ---
 
 #  Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarah-sameh-8b4349290/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sarah.mohamed03@eng-st.cu.edu.eg">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -122,7 +106,7 @@ DNA / RNA sequence analysis and biological data processing.
 
 # 👀 Visitors
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sarah012-210&style=for-the-badge&color=blue"/>
 
 ---
 
