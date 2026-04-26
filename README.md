@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Sarah%20Sameh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineering%20%7C%20AI%20for%20Healthcare&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Sarah%20Sameh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineering%20%7C%20Software%20and%20AI%20for%20Healthcare&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0:6A11CB,100:2575FC&center=true&vCenter=true&width=900&lines=Biomedical+Engineering+Student;Machine+Learning+%26+Deep+Learning+for+Healthcare;Medical+Imaging+%7C+Data+Science+%7C+Research;Building+AI+and+Software+Solutions+for+Real+World+Problems" />
 
@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=sarah012-210&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<br><br>
 
 </div>
 
