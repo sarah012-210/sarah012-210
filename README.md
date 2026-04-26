@@ -4,6 +4,24 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0:6A11CB,100:2575FC&center=true&vCenter=true&width=900&lines=Biomedical+Engineering+Student;Machine+Learning+%26+Deep+Learning+for+Healthcare;Medical+Imaging+%7C+Data+Science+%7C+Research;Building+AI+and+Software+Solutions+for+Real+World+Problems" />
 
+<br><br>
+
+<a href="mailto:sarasameh612@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sarah-sameh-8b4349290/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sarah012-210">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sarah012-210&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
 </div>
 
 ---
@@ -82,33 +100,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarah012-210&theme=tokyo-night"/>
 
----
-
-#  Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarah012-210&theme=tokyonight&row=1&column=7"/>
-
----
-
-#  Connect With Me
-
-<p>
-<a href="https://linkedin.com/in/sarah-sameh-8b4349290/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sarah.mohamed03@eng-st.cu.edu.eg">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=sarah012-210&style=for-the-badge&color=blue"/>
-
----
 
 <div align="center">
 
